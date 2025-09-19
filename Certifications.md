@@ -30,7 +30,7 @@ Associate Cloud Engineer
   - IAM users
   - cost:11k
 
-Professional certification:
+3. Professional certification:
 - must have indepth knowledge on cloud
 - different certifications
    - Cloud Architect
