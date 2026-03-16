@@ -1,11 +1,11 @@
-IAM:  
+**IAM:**  
 What is IAM:
 Identity Access Management in GCP is a framework that controls 
 - **Who** can do **What** on **Which** resources   
 Formula: Who -> can do What -> on Which resources  
 It is crucial for securely managing access in a cloud environment.  
-
-**Core concepts:  **
+---------
+**Core concepts:**
 | Component | Description |
 |-----------|-------------|
 | Identity | A user, group, domain, or service account |
