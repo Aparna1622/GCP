@@ -33,3 +33,6 @@ Powerful networking and AI services
 Easy to use UI + powerful CLI  
 Cost-effective and beginner-friendly  
 Used by gaints like META  
+
+GCP Hierarchy:  
+https://in.images.search.yahoo.com/yhs/search;_ylt=Awr1RdVi2bdpqXwjtwbnHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=GCP+hierarchy&type=type80160-2646593407&param1=524037790&hsimp=yhs-002&hspart=sz&ei=UTF-8&fr=yhs-sz-002#id=7&iurl=https%3A%2F%2Fatmamani.github.io%2Fimages%2Fgcp-resource-hierarchy.jpg&action=click
