@@ -51,6 +51,7 @@ Follow Least Privilege principle
 **Hands-On Lab**  
 Lab 1: Create Project & Assign Viewer Role  
 
+```bash
 export PROJECT_ID="devops-iam-demo-$(date +%s)"
 gcloud projects create $PROJECT_ID
 gcloud config set project $PROJECT_ID
@@ -58,5 +59,4 @@ gcloud config set project $PROJECT_ID
 gcloud projects add-iam-policy-binding $PROJECT_ID \
   --member="user:devops.engineer@example.com" \
   --role="roles/viewer"
-
-
+```
