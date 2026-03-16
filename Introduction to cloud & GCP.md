@@ -35,4 +35,6 @@ Cost-effective and beginner-friendly
 Used by gaints like META  
 
 GCP Hierarchy:  
-To have cost visibility and cost optimization, every cloud has their own hierarchy. Below is the hierarchy for GCP.
+To have cost visibility and cost optimization, every cloud has their own hierarchy. Below is the hierarchy for GCP.  
+
+<img width="520" height="590" alt="image" src="https://atmamani.github.io/images/gcp-resource-hierarchy.jpg" />  
