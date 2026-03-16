@@ -13,6 +13,7 @@ It is crucial for securely managing access in a cloud environment.
 | Policy | A binding of identities to roles |
 | Resource | Any GCP object like a project, VM, bucket, etc. |  
 
+-----
 **Types of Roles**:  
 
 | Role Type | Description | Example |
@@ -21,6 +22,7 @@ It is crucial for securely managing access in a cloud environment.
 | Predefined | Fine-grained, service-specific roles | `roles/storage.admin` |
 | Custom | You define exact permissions | Only `compute.instances.start` |  
 
+-----
 **IAM Policy Hierarchy:**  
 IAM roles can be assigned at different levels:  
 
@@ -30,9 +32,12 @@ Project
 Resource  
 Note: Permissions inherit from parent to child unless explicitly overridden.  
 
+-----
 **Service Accounts**:  
 - Service accounts are non-human identities used by apps, scripts, or pipelines.  
 - Example: Cloud Build uses a service account to deploy apps to GKE.
+
+----
 
 **IAM Best Practices for DevOps**:  
 Follow Least Privilege principle  
