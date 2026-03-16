@@ -22,6 +22,11 @@ Auto-scale as needed
 Automated provisioning  
 Managed by Google  
 
+Evolution of cloud computing:
+
+<img width="520" height="590" alt="image" src="https://github.com/user-attachments/assets/fcb2ad46-7b43-4c84-8e35-94a4c3208fd0" />  
+
+
 Why GCP?  
 Google-level infrastructure (same as YouTube, Gmail)  
 Powerful networking and AI services  
