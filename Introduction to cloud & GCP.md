@@ -5,6 +5,7 @@ In simple words:
 
 "You pay only for what you use. No upfront investment, no maintenance headache."
 
+
 Cloud providers: Google Cloud (GCP), Amazon Web Services (AWS), Microsoft Azure
 
 Traditional IT vs Cloud:  
