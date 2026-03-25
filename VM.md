@@ -32,3 +32,13 @@ gcloud compute instances create devops-vm \
 
 # SSH into the instance
 gcloud compute ssh devops-vm --zone=us-central1-a
+
+## 🛠️ Manually Install NGINX on Ubuntu VM
+
+Once inside the VM via SSH, run:
+
+```bash
+sudo apt update
+sudo apt install -y nginx
+sudo systemctl enable nginx
+sudo systemctl start nginx
